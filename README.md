@@ -11,9 +11,6 @@ The Countdown Timer is a simple yet effective web application that allows users 
 
 **User -Friendly Interface:** Simple and intuitive design for easy interaction.
 
-**Customizable End Date:** Users can set their own target date and time for the countdown.
-
-**Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
 ![Preview Image](Countdowntimer.png)
 
